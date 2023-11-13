@@ -1,0 +1,15 @@
+from,to,weight
+Sophia Thiel,Cathy Hummels,3
+Cathy Hummels,Anna Noe,3
+Anna Maria Damm,Maren Wolf,3
+Maren Wolf,Patrizia Palme,2
+Anna Maria Damm,Fata Hasanovic,3
+Fata Hasanovic,Maren Wolf,2
+Anna Maria Damm,Pamela Reif,1
+Sophia Thiel,Anna Noe,2
+Patrizia Palme,Fata Hasanovic,2
+Stefanie Giesinger,Fata Hasanovic,1
+Stefanie Giesinger,Anna Maria Damm,1
+Stefanie Giesinger,Pamela Reif,2
+Stefanie Giesinger,Sophia Thiel,1
+Pamela Reif,Sophia Thiel,3
